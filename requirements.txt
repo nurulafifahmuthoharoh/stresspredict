@@ -1,4 +1,5 @@
 streamlit
 joblib
+flask
 pandas
 scikit-learn
